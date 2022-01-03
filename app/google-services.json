@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158981179504",
+    "project_id": "ev-manager-2b690",
+    "storage_bucket": "ev-manager-2b690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158981179504:android:e3dcea43f4d2f41b980cb5",
+        "android_client_info": {
+          "package_name": "com.semer.projet_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158981179504-m3sh8f90bmi6b7nc92jfe9l98srq5ch7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKZLZhkj5oxnXz8VVMwY0mFE48A2wPoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158981179504-m3sh8f90bmi6b7nc92jfe9l98srq5ch7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
